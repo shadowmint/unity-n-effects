@@ -1,6 +1,8 @@
-# TEMPLATE
+# unity-n-effects
 
-...
+Various stuff.
+
+NB. This isn't versioned. Clone it and customize.
 
 ## Usage
 

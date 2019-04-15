@@ -1,7 +1,7 @@
 {
   "name": "unity-n-effects",
   "version": "0.0.1",
-  "description": "Effects",
+  "description": "n-effects",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -22,7 +22,7 @@
     "postinstall": "node scripts/postinstall.js"
   },
   "dependencies": {
-    "ncp": "^2.0.0",
-    "mkdirp": "^0.5.1"
+    "unity-n-optional": "github:shadowmint/unity-n-optional",
+    "unity-n-promises": "github:shadowmint/unity-n-promises"
   }
 }
